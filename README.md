@@ -1,5 +1,7 @@
 # Five9 Web Service API
 
+### This module has been depreciated, please do not use it. 
+
 This is an API wrapper for [five9 - Cloud Contact Center Software](http://www.five9.com/). In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/five9_webapi`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
