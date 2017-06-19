@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'bundler/setup'
+# noinspection RubyResolve
 require 'five9_webapi'
 
 # You can add fixtures and/or initialization code here to make experimenting
